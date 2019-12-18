@@ -21,9 +21,9 @@ Here is to get that American Mcgee's Alice Classic from 2000 working with the of
 
 9) Copy the Alice 1 folder into C:\Program Files (x86)\Origin Games\Alice Madness Returns\Game
 
-10)Launch Alice:Madness Returns again 
+10) Launch Alice:Madness Returns again 
 
-11)Select option to play American Mcgee's Alice
+11) Select option to play American Mcgee's Alice
 
 12) That's it,enjoy the classic!
 

@@ -3,7 +3,7 @@ American Mcgee's Alice 1 fix for Windows 10 Origin version
 Reviving another classic game:
 Here is to get that American Mcgee's Alice Classic from 2000 working with the offical version of Alice:Madness Returns 2011 from Origin 
 
-1) You need to buy the copy of the original 2011 game Alice: Madness Returns from Origin (Steam version does not work)
+1) You need to buy the copy of the original 2011 game Alice: Madness Returns from Origin or Redeem your Steam Key in the Origin client (Steam version does not work)
 
 2) Donwload and install Alice:Madness Returns from Origin
 

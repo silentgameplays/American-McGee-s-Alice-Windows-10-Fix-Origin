@@ -1,31 +1,30 @@
-# American-Mcgee-s-Alice-1-fix-for-Windows-10-Origin-version
-American Mcgee's Alice 1 fix for Windows 10 Origin version
-Reviving another classic game:
-Here is to get that American Mcgee's Alice Classic from 2000 working with the offical version of Alice:Madness Returns 2011 from Origin 
+American McGee's Alice fix for Windows 10 for Origin  
 
-1) You need to buy the copy of the original 2011 game Alice: Madness Returns from Origin or Redeem your Steam Key in the Origin client (Steam version does not work)
+Reviving another classic game: 
+Here is how to get that American McGee's Alice Classic from 2000 working with the official version of Alice:Madness Returns 2011 from Origin
 
-2) Donwload and install Alice:Madness Returns from Origin
+1.You need to buy the copy of the original 2011 game Alice: Madness Returns from Origin or Redeem your Steam Key in the Origin client  (Steam version does not work and is not supported anymore)
 
-3) Run the game at least once
+2.Download and install Alice:Madness Returns from Origin
 
-4) Download Alice 1 from this link https://drive.google.com/drive/folders/1P54riPxUKFMFYR8ifhoK30xx89nSzfRK?usp=sharing
+3.Run the game at least once
 
-5) Go to C:\Users\Administrator\Documents\My Games\Alice Madness Returns\AliceGame\Config
+4.Download Alice 1 from this link https://drive.google.com/drive/folders/1P54riPxUKFMFYR8ifhoK30xx89nSzfRK?usp=sharing
 
-6) Look for AliceEngine.ini file
+5.Go to C:\Users\Administrator\Documents\My Games\Alice Madness Returns\AliceGame\Config
 
-7) Edit it with notepad
+6.Look for AliceEngine.ini file
 
-8) Change this line GIsSpecialPCEdition=FALSE to GIsSpecialPCEdition=TRUE
+7.Edit it with notepad
 
-9) Copy the Alice 1 folder into C:\Program Files (x86)\Origin Games\Alice Madness Returns\Game
+* Change this line GIsSpecialPCEdition=FALSE to GIsSpecialPCEdition=TRUE
 
-10) Launch Alice:Madness Returns again 
+8.Copy the Alice 1 folder into C:\Program Files (x86)\Origin Games\Alice Madness Returns\Game
 
-11) Select option to play American Mcgee's Alice
+9.Launch Alice:Madness Returns again
 
-12) That's it,enjoy the classic!
+10.Select option to play American McGee's Alice
 
-Cheers,
-gimalaji_blake
+That's it,enjoy the classic!
+
+Cheers, gimalaji_blake

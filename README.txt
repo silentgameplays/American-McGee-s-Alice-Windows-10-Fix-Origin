@@ -51,4 +51,18 @@ GIsSpecialPCEdition=TRUE
 10. Select option to play American McGee's Alice
 
 
+#Additional steps if something is broken,game does not work correctly,etc:
+
+1. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
+
+
+2. Check on AMD/NVIDIA GPU’s if the driver is up to date,if not reinstall using DDU
+(no need for safe mode,just restart normally and install the latest driver version):
+https://www.guru3d.com/files-details/display-driver-uninstaller-download.html
+
+3. Follow the guide,do a clean/fresh reinstall(delete all folders in Steam with the Alice: Madness Returns game and make sure that the game is located in C:\Program Files(x86) directory.
+
+4. On Intel+NVIDIA (laptops) make sure that Alice:Madness Returns game is using NVIDIA as main GPU in NVIDIA Control Panel. 
+
+
 # Cheers, silentgameplayzz:

@@ -65,4 +65,4 @@ https://www.guru3d.com/files-details/display-driver-uninstaller-download.html
 4. On Intel+NVIDIA (laptops) make sure that Alice:Madness Returns game is using NVIDIA as main GPU in NVIDIA Control Panel. 
 
 
-# Cheers, silentgameplayzz:
+# Cheers, silentgamepls:

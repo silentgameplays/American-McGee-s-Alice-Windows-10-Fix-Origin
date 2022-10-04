@@ -13,6 +13,8 @@
 
 4. Download Alice 1 from this link: 
 * https://drive.google.com/drive/folders/1P54riPxUKFMFYR8ifhoK30xx89nSzfRK?usp=sharing
+Or Nextcloud:
+* https://ann.nl.tab.digital/s/Twoj2T7F2GgzHJc
 
 5. Go to C:\Users\User\Documents\My Games\Alice Madness Returns\AliceGame\Config
 

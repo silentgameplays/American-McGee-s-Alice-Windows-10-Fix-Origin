@@ -30,6 +30,34 @@ Or Nextcloud:
 
 10. Select option to play American McGee's Alice
 
+# For EA App version
+
+1. You need to buy the copy of the original 2011 game Alice: Madness Returns from EA or Redeem your Steam Key in the EA App client
+
+2. Download and install Alice:Madness Returns from EA App client
+
+3. Run the game at least once
+
+4. Download Alice 1 from this link: 
+* https://drive.google.com/drive/folders/1P54riPxUKFMFYR8ifhoK30xx89nSzfRK?usp=sharing
+Or Nextcloud:
+* https://ann.nl.tab.digital/s/Twoj2T7F2GgzHJc
+
+5. Go to C:\Users\User\Documents\My Games\Alice Madness Returns\AliceGame\Config
+
+6. Look for AliceEngine.ini file
+
+7. Edit it with notepad:
+
+* Change this one line GIsSpecialPCEdition=FALSE to GIsSpecialPCEdition=TRUE
+
+8. Copy the Alice 1 folder into  C:\Program Files\EA Games\Alice Madness Returns\Game
+
+9. Launch Alice:Madness Returns again
+
+10. Select option to play American McGee's Alice (if it crashes when selecting Full Screen,don't worry just relaunch the game again)
+
+
 # For Steam versions:
 1. Download and install Alice:Madness Returns from Steam
 
@@ -66,6 +94,8 @@ MaxSmoothedFrameRate=31
 5. Change one of these values to: 
 MinSmoothedFrameRate=22
 MaxSmoothedFrameRate=60
+
+
 
 
 #Additional steps if something is broken,game does not work correctly,etc:

@@ -89,7 +89,7 @@ GIsSpecialPCEdition=TRUE
 MinSmoothedFrameRate=22
 MaxSmoothedFrameRate=31
 5. Change one of these values to: 
-MinSmoothedFrameRate=22
+MinSmoothedFrameRate=30
 MaxSmoothedFrameRate=60
 
 
